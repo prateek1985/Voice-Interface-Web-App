@@ -1,5 +1,6 @@
 
 Description
+To run Annyang on localhost navigate to folder containing gruntfile.js and execute grunt dev in cmd
 
 1)I have used Annyang API for Speech to text Conversion and using this voice commands are converted to http calls.
 2)Navigate to index.html in project folder and run it on localhost as described above.
